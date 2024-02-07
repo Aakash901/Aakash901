@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aakash901](https://github.com/Aakash901)
 
+- 👨‍💻 Connect with me on linkdin(https://www.linkedin.com/in/aakash-singh-1832631b4/))
+
 - 📫 How to reach me **aakash.kr.singh0102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
