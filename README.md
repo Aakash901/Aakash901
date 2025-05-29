@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Aakash%20Singh&fontSize=70&fontAlignY=35&animation=twinkling&desc=Mobile%20Application%20Developer&descAlignY=52" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+crafting+innovative+Android+applications;Kotlin+%7C+Java+%7C+Android+SDK+%7C+Jetpack+Compose" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+crafting+innovative+Android+and+Flutter+applications;Kotlin+%7C+Java+%7C+Dart+%7C+Android+SDK+%7C+Jetpack+Compose+%7C+Flutter" />
 </div>
 <div align="center">
     <table>
@@ -10,7 +10,7 @@
             <td width="50%">
                 <h3 align="center">🚀 About Me</h3>
                 <p align="center">
-                    Android Developer from India with expertise in Kotlin and Java. Focused on creating scalable and performant mobile applications.
+                    Android & Flutter Developer from India with expertise in Kotlin, Java, and Dart. Focused on creating scalable and performant mobile applications and backend solutions using Spring Boot.
                 </p>
                 <p align="center">
                     <a href="https://www.linkedin.com/in/aakash-singh-1832631b4">
@@ -26,8 +26,12 @@
                 <p align="center">
                     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
                     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+                    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+                    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
                     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
                     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+                    <br/>
+                    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
                 </p>
             </td>
         </tr>
@@ -49,6 +53,7 @@
                 <div align="center">
                     ● Android SDK<br/>
                     ● Kotlin & Java<br/>
+                    ● Dart & Flutter<br/>
                     ● Jetpack Compose<br/>
                     ● MVVM Architecture<br/>
                     ● Clean Code
@@ -61,13 +66,15 @@
                     ● Dagger Hilt<br/>
                     ● Room Database<br/>
                     ● Retrofit<br/>
-                    ● Firebase
+                    ● Firebase<br/>
+                    ● Spring Boot (Backend)
                 </div>
             </td>
             <td width="33%">
                 <h3 align="center">Development Tools</h3>
                 <div align="center">
                     ● Android Studio<br/>
+                    ● Visual Studio Code (Flutter)<br/>
                     ● Git & GitHub<br/>
                     ● Postman<br/>
                     ● Firebase Console<br/>
@@ -77,6 +84,8 @@
         </tr>
     </table>
 </div>
+<!-- The rest remains unchanged -->
+
 <br/>
 <div align="center">
     <h2>📊 GitHub Statistics</h2>
